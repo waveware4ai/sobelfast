@@ -4,8 +4,8 @@ This code is a fast sobel-edge extraction algorithm implementation. When process
 This library can be conveniently used to convert/extract images in real ime. Also, it can be used freely as long as you do not change the package name.
 
 <p float="middle">
-    <img src="resources\exam1.jpg" alt="example1" width="49.5%"/>
-    <img src="resources\exam2.jpg" alt="example2" width="49.5%"/>
+    <img src="[resources\exam1.jpg](https://github.com/waveware4ai/sobelfast/blob/main/resource/exam1.jpg)" alt="example1" width="49.5%"/>
+    <img src="[resources\exam2.jpg](https://github.com/waveware4ai/sobelfast/blob/main/resource/exam2.jpg)" alt="example2" width="49.5%"/>
 </p>
 
 # example1 - file input, file output
