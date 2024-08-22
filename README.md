@@ -29,3 +29,8 @@ BufferedImage src = ImageIO.read(new File("c:/input.jpg"));
 BufferedImage tgt = new SobelFast(src).process().toImage();
 ImageIO.write(tgt, "png", new File("c:/output2.jpg"));
 ```
+
+# example3 - image input, raster(rgba) output
+```
+int[]rgba_raster = new SobelFast().process(ImageIO.read(new File("c:/input.jpg")));
+```
