@@ -1,6 +1,7 @@
 
-# sobelfast
-This code is a fast sobel algorithm implementation.
+# sobelfast java
+This code is a fast sobel algorithm implementation. When processing a 1024x768 image, even native-c sobel algorithm takes about 100ms, whereas using sobelfast-java took about 60ms. 
+This library can be conveniently used to convert/process images in real time. Also, it can be used freely as long as you do not change the package name.
 
 # example1 - file input, file output
 ```
