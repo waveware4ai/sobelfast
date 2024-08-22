@@ -3,6 +3,12 @@
 This code is a fast sobel-edge extraction algorithm implementation. When processing a 1024x768 image, even native-c sobel algorithm takes about 100ms over, whereas using this implemntation sobelfast took about 60ms. 
 This library can be conveniently used to convert/extract images in real ime. Also, it can be used freely as long as you do not change the package name.
 
+<p float="middle">
+    <img src="resources\exam1.jpg" alt="example1" width="49.5%"/>
+    <img src="resources\exam2.jpg" alt="example2" width="49.5%"/></p>
+</p>
+
+
 # example1 - file input, file output
 ```
 File src = new File("c:/input.png");
