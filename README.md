@@ -1,7 +1,7 @@
 
 # sobelfast java
 This code is a fast sobel-edge extraction algorithm implementation. When processing a 1024x768 image, even native-c sobel algorithm takes about 100ms over, whereas using this implemntation sobel edge extraction took about 60ms. 
-This library can be conveniently used to convert/extract images in real ime. Also, it can be used freely as long as you do not change the package name.
+This library can be conveniently used to convert/extract images in realtime. Also, it can be used freely as long as you do not change the package name.
 
 <p float="middle">
     <img src="https://github.com/waveware4ai/sobelfast/blob/main/resource/exam1.jpg" alt="example1" width="100.0%"/>
