@@ -5,6 +5,8 @@ This library can be conveniently used to convert/extract images in real ime. Als
 
 <p float="middle">
     <img src="https://github.com/waveware4ai/sobelfast/blob/main/resource/exam1.jpg" alt="example1" width="49.5%"/>
+</p>
+<p float="middle">
     <img src="https://github.com/waveware4ai/sobelfast/blob/main/resource/exam2.jpg" alt="example2" width="49.5%"/>
 </p>
 
