@@ -15,3 +15,9 @@ File          src = new File("c:/input.png");
 BufferedImage tgt = new SobelFast(src).process().toImage();
 ImageIO.write(tgt, "png", new File("c:/output2.png"));
 ```
+# example3 - image input, image output
+```
+BufferedImage src = ImageIO.read(new File("c:/input.jpg"));
+BufferedImage tgt = new SobelFast(src).process().toImage();
+ImageIO.write(tgt, "png", new File("c:/output2.jpg"));
+```
