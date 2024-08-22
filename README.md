@@ -5,9 +5,8 @@ This library can be conveniently used to convert/extract images in real ime. Als
 
 <p float="middle">
     <img src="resources\exam1.jpg" alt="example1" width="49.5%"/>
-    <img src="resources\exam2.jpg" alt="example2" width="49.5%"/></p>
+    <img src="resources\exam2.jpg" alt="example2" width="49.5%"/>
 </p>
-
 
 # example1 - file input, file output
 ```
